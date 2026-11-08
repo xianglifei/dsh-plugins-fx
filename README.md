@@ -1,4 +1,4 @@
-# fx-dsh
+# dsh-plugins-fx
 
 我个人的 [DSH](https://deepseek.com)（DeepSeek Harness）小插件合集。
 
